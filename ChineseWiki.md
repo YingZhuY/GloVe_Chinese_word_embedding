@@ -24,7 +24,7 @@
 
 * 进入到 latest 目录下，会看到大量的文件列表，对应着不同的下载地址
 
-![]((picture/latest.PNG)
+![](picture/latest.PNG)
 
 可以按需搜索文件名找到对应的下载链接
 
