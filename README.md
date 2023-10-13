@@ -38,7 +38,7 @@
 
 ### 结果文件
 
-训练成功后，即可得到词向量模型（vectors.txt；二进制格式 vectors.bin）和词表文件（vocab.txt），我会把这三个文件放到百度云盘上，地址：[zhwiki](https://pan.baidu.com/s/1spUiHXVSxebbOHmfn1MiJw)，提取码：jm32。
+训练成功后，即可得到词向量模型（vectors.txt；二进制格式 vectors.bin）和词表文件（vocab.txt），我会把这三个文件放到百度云盘上，地址：[zhwiki](https://pan.baidu.com/s/1L4L7cL_3hFmRhrMoEcDkNw)，提取码：rywa；[vocab.txt](https://drive.google.com/file/d/1_xtVImfoyMk2zHwtjiaq3Ob54cfFDz4V/view?usp=sharing)。
 
 此外，模型训练的词向量为 50 维（具体参数你可以在 demo.sh 文件中调整），词表大小 83W+，可参照训练过程输出文件 `output.txt`，直接给在当前主目录下。
 
